@@ -67,7 +67,6 @@ int main()
 	Node* nodo = new Node;//Se inica el objeto
 	char ArrGato[3][3] = { 'O','X','O','X','O','X','$','$' ,'$' };//Se inicializa el arreglo
 	nodo->checarVacio(ArrGato);
-	cout << "Neko" << endl;
 }
 
 
